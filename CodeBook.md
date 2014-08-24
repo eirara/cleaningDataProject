@@ -3,9 +3,11 @@ Data Dictionary - Human Activity Recognition Using Smartphones Data Set
 The following are the variables used as the Column Names:
 
 "Subject"
+
     Unique ID representation of the Test/Training subjects.
     
 "Activity"
+
     Can either be any of the following activies:
     1 or WALKING
     2 or WALKING_UPSTAIRS
@@ -15,6 +17,7 @@ The following are the variables used as the Column Names:
     6 or LAYING
 
 Also variables (66) that represent signals (-XYZ' is used to denote 3-axial signals in the X, Y and Z directions):
+
   "BodyAcc.mean.X"
   "BodyAcc.mean.Y"
   "BodyAcc.mean.Z"
