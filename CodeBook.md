@@ -16,7 +16,7 @@ The following are the variables used as the Column Names:
     5 or STANDING
     6 or LAYING
 
-Also variables (66) that represent signals (-XYZ' is used to denote 3-axial signals in the X, Y and Z directions):
+Also variables (only 66 are used for analysis) that represent signals (-XYZ' is used to denote 3-axial signals in the X, Y and Z directions):
 
       "BodyAcc.mean.X"
       
